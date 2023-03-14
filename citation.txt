@@ -1,0 +1,9 @@
+@article{REPO-301,
+    author = "Zhan, Kun and Niu, Chaoxi and Chen, Changlu and Nie, Feiping and Zhang, Changqing and Yang, Yi",
+    journal = "IEEE Transactions on Knowledge and Data Engineering",
+    number = "10",
+    pages = "1984--1993",
+    title = "{Graph Structure Fusion for Multiview Clustering}",
+    volume = "31",
+    year = "2019"
+}
